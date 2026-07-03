@@ -1,45 +1,27 @@
 # Gargi Gupta
 
-I build full-stack products around data, AI workflows, and usable automation.
+I build full-stack products around AI workflows, real-time data, and usable automation.
 
-Currently building **Toki**, an AI-assisted workflow productivity product focused on work sessions, context, tasks, and local-first product behavior.
+Currently building **Toki**, an AI-assisted workflow productivity product focused on work sessions, context, tasks, and local-first behavior.
 
-## Shipped Work
+## Featured Work
 
-### InvoiceFlow AI
+- **InvoiceFlow AI** - AI finance workflow automation for invoice review, policy evidence, human review, and audit trails.  
+  `Python` · `FastAPI` · `RAG` · `Render` · `GitHub Actions`  
+  [Live Demo](https://invoiceflow-ai-a9yq.onrender.com/ui) · [Repo](https://github.com/GargiGupta-io/invoiceflow-ai)
 
-AI-assisted finance workflow automation for invoice review, AP/AR routing, policy evidence, human review, audit trails, and evaluation checks.
+- **RaceDay** - Formula 1 race intelligence platform for strategy views, race stories, simulations, and live companion data.  
+  `Python` · `FastAPI` · `Next.js` · `TypeScript` · `WebSockets`  
+  [Live Demo](https://raceday-khaki.vercel.app) · [Repo](https://github.com/GargiGupta-io/raceday)
 
-- Live demo: https://invoiceflow-ai-a9yq.onrender.com/ui
-- Repository: https://github.com/GargiGupta-io/invoiceflow-ai
-- Stack: Python, FastAPI, RAG, REST APIs, GitHub Actions, Render, HTML/CSS/JavaScript
+- **Toki** - AI-assisted workflow productivity platform for sessions, tasks, context, and follow-up actions.  
+  `React` · `TypeScript` · `Node.js` · `AI workflows`  
+  [Repo](https://github.com/GargiGupta-io/toki)
 
-### RaceDay
+## Stack
 
-Formula 1 data intelligence platform for race stories, strategy views, live companion tools, and real-time race data handling.
+`Python` · `TypeScript` · `Java` · `SQL` · `FastAPI` · `React` · `Next.js` · `Node.js` · `WebSockets` · `Docker`
 
-- Live demo: https://raceday-khaki.vercel.app
-- Repository: https://github.com/GargiGupta-io/raceday
-- Stack: Python, FastAPI, Next.js, TypeScript, WebSockets, Docker, FastF1, OpenF1
+## Focus
 
-### Toki
-
-AI-assisted workflow productivity platform for managing work sessions, context, tasks, and follow-up actions from a single workflow surface.
-
-- Repository: https://github.com/GargiGupta-io/toki
-- Stack: React, TypeScript, Node.js, AI workflows, local storage/database, workflow automation
-
-## What I Work With
-
-Python · TypeScript · Java · SQL · FastAPI · React · Next.js · Node.js · WebSockets · Docker · GitHub Actions · Render · Vercel
-
-## Current Focus
-
-- Building Toki into a polished independent product
-- Improving backend, AI workflow, and product engineering depth
-- Preparing for focused open-source contributions in developer-tools and workflow ecosystems
-
-## Project Direction
-
-I care about software that is practical, understandable, and useful. My strongest projects are shaped around real workflows: making race data easier to understand, making finance review safer and more traceable, and making personal work sessions easier to manage.
-
+Building practical software that turns messy workflows into clear, usable products.
