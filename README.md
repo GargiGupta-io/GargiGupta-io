@@ -12,6 +12,10 @@ Currently working on **Toki**, an AI-assisted productivity app for work sessions
 - **RaceDay** - Formula 1 companion for race stories, strategy views, simulations, and live race data.  
   [Live Demo](https://raceday-khaki.vercel.app) | [Repo](https://github.com/GargiGupta-io/raceday)
 
-## Stack
+## Tech
 
-`Python` | `TypeScript` | `Java` | `SQL` | `FastAPI` | `React` | `Next.js` | `Node.js` | `WebSockets` | `Docker`
+**Languages:** `Python` · `TypeScript` · `Java` · `SQL` · `C++`  
+**Backend:** `FastAPI` · `Node.js` · `REST APIs` · `WebSockets`  
+**Testing:** `Pytest` · `GitHub Actions` · `API checks` · `Evaluation tests`  
+**Frontend:** `React` · `Next.js` · `Tailwind CSS` · `HTML/CSS/JS`  
+**DevOps:** `Docker` · `Render` · `Vercel` · `Railway` · `Git`
