@@ -2,7 +2,6 @@
   <img src="assets/github-banner.svg" alt="Gargi Gupta - Full-stack products, AI workflows, real-time data" />
 </p>
 
-# Gargi Gupta
 
 I build deployed full-stack products around AI workflows, data-heavy interfaces, and usable automation.
 
