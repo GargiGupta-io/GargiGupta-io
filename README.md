@@ -1,10 +1,23 @@
 # Gargi Gupta
 
-I build full-stack products that make complex workflows easier to use.
+I like turning messy workflows into clean, shipped web products.
 
-Currently working on **Toki**, an AI-assisted productivity app for work sessions, context, tasks, and follow-up actions.
+```txt
+gargi@github
+------------------------------
+current   Toki - AI-assisted productivity workspace
+shipped   InvoiceFlow AI - finance workflow automation
+shipped   RaceDay - live data, strategy, and storytelling
+research  API auth, sessions, access control
+```
 
-## Shipped
+## Now
+
+- Building **Toki**, an AI-assisted productivity app for work sessions, context, tasks, and follow-up actions.
+- Practicing security research through responsible disclosure, focused on authorization and API behavior.
+- Contributing to the Keras.io documentation/tutorial ecosystem.
+
+## Selected Work
 
 - **InvoiceFlow AI** - finance workflow automation for invoice review, policy evidence, human review, and audit trails.  
   [Live Demo](https://invoiceflow-ai-a9yq.onrender.com/ui) | [Repo](https://github.com/GargiGupta-io/invoiceflow-ai)
@@ -12,7 +25,7 @@ Currently working on **Toki**, an AI-assisted productivity app for work sessions
 - **RaceDay** - Formula 1 companion for race stories, strategy views, simulations, and live race data.  
   [Live Demo](https://raceday-khaki.vercel.app) | [Repo](https://github.com/GargiGupta-io/raceday)
 
-## Tech
+## Toolkit
 
 **Languages:** `Python` · `TypeScript` · `Java` · `SQL` · `C++`  
 **Backend:** `FastAPI` · `Node.js` · `REST APIs` · `WebSockets`  
