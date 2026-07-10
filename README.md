@@ -13,7 +13,7 @@ Currently building **Toki**, a TypeScript/Rust/Tauri desktop workspace with scre
 
 Open to remote software engineering, AI workflow, and product-focused contract opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/gargi-gupta-a53b55266/) · [Email](mailto:ggargi473@gmail.com) · [Public resume](assets/GargiGupta_Public_Resume.docx)
+[LinkedIn](https://www.linkedin.com/in/gargi-gupta-a53b55266/) · [Email](mailto:ggargi473@gmail.com) · [Public resume (PDF)](assets/GargiGupta_Public_Resume.pdf)
 
 ## Work
 
@@ -25,7 +25,8 @@ Open to remote software engineering, AI workflow, and product-focused contract o
 
 ## Open Source
 
-- [Keras IO PR #2390](https://github.com/keras-team/keras-io/pull/2390) — submitted a fix and regression coverage for the miniature GPT rolling context window; open for review.
+- [Keras Hub PR #2799](https://github.com/keras-team/keras-hub/pull/2799) — fixed attention-score returns in `CachedMultiHeadAttention` and added regression coverage for TensorFlow, JAX, and PyTorch; open for review.
+- [Keras IO PR #2390](https://github.com/keras-team/keras-io/pull/2390) — fixed stale rolling-context behavior in the miniature GPT example and validated formatting and compilation checks; open for review.
 
 ## Toolkit
 
