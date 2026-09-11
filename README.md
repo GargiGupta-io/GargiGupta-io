@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="assets/github-banner.svg" alt="Gargi Gupta - Full-stack products, AI workflows, real-time data" />
-</p>
-
+<a href="https://github.com/GargiGupta-io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GargiGupta-io/GargiGupta-io/main/assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GargiGupta-io/GargiGupta-io/main/assets/terminal-light.svg">
+    <img alt="Gargi Gupta — full-stack and backend engineer" src="https://raw.githubusercontent.com/GargiGupta-io/GargiGupta-io/main/assets/terminal-light.svg" width="880">
+  </picture>
+</a>
 
 I build full-stack products around AI workflows, data-heavy interfaces, and usable automation.
 
@@ -25,8 +28,24 @@ Open to remote software engineering, AI workflow, and product-focused contract o
 
 ## Open Source
 
-- [Keras Hub PR #2799](https://github.com/keras-team/keras-hub/pull/2799) — fixed attention-score returns in `CachedMultiHeadAttention` and added regression coverage for TensorFlow, JAX, and PyTorch; open for review.
-- [Keras IO PR #2390](https://github.com/keras-team/keras-io/pull/2390) — fixed stale rolling-context behavior in the miniature GPT example and validated formatting and compilation checks; open for review.
+Six merged pull requests across the Keras ecosystem, spanning core framework fixes, model performance, and test coverage.
+
+**[keras-team/keras](https://github.com/keras-team/keras)**
+
+- [PR #23261](https://github.com/keras-team/keras/pull/23261) — Fixed Functional models built with dictionary inputs, where an unrelated extra key at runtime could silently shift the flattened input order. Closes issue #23258. Merged Sep 2026.
+
+**[keras-team/keras-hub](https://github.com/keras-team/keras-hub)**
+
+- [PR #2849](https://github.com/keras-team/keras-hub/pull/2849) — Moved SmolLM3 onto fused attention via `ops.dot_product_attention()`, enabling flash attention on the JAX and PyTorch backends. Merged Aug 2026.
+- [PR #2799](https://github.com/keras-team/keras-hub/pull/2799) — Exposed `return_attention_scores` in `CachedMultiHeadAttention`, which previously discarded the scores it computed, and added regression coverage across TensorFlow, JAX, and PyTorch. Merged Jul 2026.
+- [PR #2854](https://github.com/keras-team/keras-hub/pull/2854) — Removed TensorFlow-specific `take_along_axis` workarounds after verifying the upstream dynamic-shape issue was fixed, consolidating four files onto `keras.ops`. Merged Aug 2026.
+- [PR #2855](https://github.com/keras-team/keras-hub/pull/2855) — Added a training test asserting transformer loss decreases across epochs, catching initialization and optimisation regressions that shape-only tests miss. Merged Aug 2026.
+
+**[keras-team/keras-io](https://github.com/keras-team/keras-io)**
+
+- [PR #2390](https://github.com/keras-team/keras-io/pull/2390) — Fixed the rolling context window in the miniature GPT example, which sliced from the start of the sequence and kept re-feeding stale context instead of using the most recent tokens. Merged Aug 2026.
+
+**In review:** [keras#23545](https://github.com/keras-team/keras/pull/23545) (integer input promotion in `hard_sigmoid` / `hard_silu`) · [keras-hub#2977](https://github.com/keras-team/keras-hub/pull/2977) (Falcon ALiBi bias under KV cache)
 
 ## Toolkit
 

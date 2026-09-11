@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="496" viewBox="0 0 880 496" role="img" aria-label="Gargi Gupta terminal profile card">
+<rect width="880" height="496" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<path d="M0 10a10 10 0 0 1 10-10h860a10 10 0 0 1 10 10v28H0z" fill="#161b22"/>
+<line x1="0" y1="38" x2="880" y2="38" stroke="#30363d" stroke-width="1"/>
+<circle cx="22" cy="19" r="5.5" fill="#ff5f56"/>
+<circle cx="40" cy="19" r="5.5" fill="#ffbd2e"/>
+<circle cx="58" cy="19" r="5.5" fill="#27c93f"/>
+<text x="440" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">gargi@github: ~/profile</text>
+<text x="30" y="82" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9" xml:space="preserve">  whoami</tspan></text>
+<text x="52" y="108" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#c9d1d9">Gargi Gupta, full-stack and backend engineer</text>
+<text x="52" y="134" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#8b949e">B.Tech Data Science and Engineering, MIT Manipal</text>
+<text x="30" y="186" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9" xml:space="preserve">  gh pr list --author @me --state merged</tspan></text>
+<text x="52" y="212" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#c9d1d9">6 merged upstream</text>
+<text x="52" y="238" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#58a6ff">keras  keras-hub  keras-io</text>
+<text x="30" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9" xml:space="preserve">  ls ~/work</tspan></text>
+<text x="52" y="316" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#58a6ff">invoiceflow-ai/   raceday/   toki/</text>
+<text x="30" y="368" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9" xml:space="preserve">  cat stack.txt</tspan></text>
+<text x="52" y="394" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#c9d1d9">Python  TypeScript  Rust  FastAPI  React</text>
+<text x="52" y="420" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#c9d1d9">AWS  Docker  Terraform  PostgreSQL</text>
+<text x="30" y="472" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9" xml:space="preserve">  █</tspan><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></text>
+</svg>
